@@ -1,2 +1,1 @@
-# prepCourseHenry
-Repositorio de tareas con Henry
+# ejercicio1
